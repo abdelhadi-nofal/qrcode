@@ -9,8 +9,8 @@ import Vcard from './components/Vcard'
 import Wifi from './components/Wifi'
 import DownloadFile from './components/DownloadFile'
 import UploadFile from './components/UploadFile'
-import './bootstrap.min(1).css';
-// import './bootstrap.min(2).css';
+// import './bootstrap.min(1).css';
+import './bootstrap.min(2).css';
 export const FinalContext = createContext()
 
 
